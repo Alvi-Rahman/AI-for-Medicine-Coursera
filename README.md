@@ -1,7 +1,11 @@
 <snippet>
   <content><![CDATA[
 
-# 1: AI-for-Medicine- Alvi-Rahman
+# ${1:AI-for-Medicine- Alvi-Rahman}
+
+
+##############################################
+##############################################
 
 TODO: Assignments for the Specialization
 
@@ -26,6 +30,7 @@ TODO: Assignments for the Specialization
 
 #####################################################
 
+]]>
 </content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
