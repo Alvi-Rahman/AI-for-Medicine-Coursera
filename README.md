@@ -8,6 +8,10 @@
 
 TODO: Assignments for the Specialization
 
+
+##############################################
+
+
 ## AI for Medical Diagnosis
 
 1. Chest X-Ray Medical Diagnosis with Deep Learning
