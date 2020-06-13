@@ -25,6 +25,6 @@ TODO: Assignments for the Specialization
 
 
 
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
