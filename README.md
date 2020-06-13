@@ -1,8 +1,7 @@
 <snippet>
   <content><![CDATA[
 # ${1: AI-for-Medicine- Alvi-Rahman}
-TODO: Write a project description
-## Installation
+
 TODO: Assignments for the Specialization
 
 ## AI for Medical Diagnosis
