@@ -1,6 +1,7 @@
 <snippet>
   <content><![CDATA[
-# ${1: AI-for-Medicine- Alvi-Rahman}
+
+# 1: AI-for-Medicine- Alvi-Rahman
 
 TODO: Assignments for the Specialization
 
@@ -23,7 +24,7 @@ TODO: Assignments for the Specialization
 2. Natural Language Entity Extraction
 3. ML Interpretation
 
-
+#####################################################
 
 </content>
   <tabTrigger>readme</tabTrigger>
